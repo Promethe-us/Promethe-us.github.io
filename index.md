@@ -1,7 +1,7 @@
 ## WuKe's Pages
 
 ## 1. 学业背景
-![title](https://img-blog.csdnimg.cn/fd3ab29ebe234efcb1665951151b6338.png))
+![title](https://img-blog.csdnimg.cn/f90d5077e0dd47fca5b15d340de2fd17.png#pic_center)
 ## 2. 竞赛经历
 
 ## 3. 科研经历
