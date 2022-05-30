@@ -1,7 +1,7 @@
 ## WuKe's Pages
 
 ## 1. 学业背景
-![title](https://img1.doubanio.com/view/status/l/public/0770925e094febc.webp)
+![title](https://img-blog.csdnimg.cn/fd3ab29ebe234efcb1665951151b6338.png)
 ## 2. 竞赛经历
 
 ## 3. 科研经历
