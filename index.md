@@ -2,9 +2,7 @@
 [toc]
 ## 1. 学习经历
 
-|<img src="https://img-blog.csdnimg.cn/735a32cd73f54e6abcc8c7a30bf18d9d.png#pic_center" style="zoom:50%;" />|**- 学业表现**    <br/> 学        校：东北大学(秦皇岛)    <br/>  专       业：自动化(双一流专业) <br/>  均分成绩:  4.02/5.0 <br/>  综合排名：1/57|
-|:-:|:--|
-|                                         |                                                              |
+![title](https://img-blog.csdnimg.cn/f90d5077e0dd47fca5b15d340de2fd17.png#pic_center)      
 
 ## 2. 竞赛经历
 
