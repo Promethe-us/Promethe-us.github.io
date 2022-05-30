@@ -1,7 +1,7 @@
 ## WuKe's Pages
 
 ## 1. 学业背景
-![title](./1.png)
+![title](https://github.com/Promethe-us/Promethe-us.github.io/blob/main/1.PNG)
 ## 2. 竞赛经历
 
 ## 3. 科研经历
