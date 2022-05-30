@@ -18,7 +18,7 @@
 ### 2.1 全国大学生智能汽车竞赛-百度深度学习组
 
 #### 2.1.1 内容简介
-![](https://img-blog.csdnimg.cn/4b2bf6caf0674ea8b8a8eccdeef9067d.gif#pic_center)
+![](https://img-blog.csdnimg.cn/3f4d24194c7f4e3d9b197689bcfd9b27.gif#pic_center)
 
 
 #### 2.1.2 负责工作
