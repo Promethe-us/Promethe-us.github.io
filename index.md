@@ -118,16 +118,13 @@
 
 ### 3.1 智能车实验室:小车在未知环境中:感知+路径规划+轨迹跟踪
 
-**本人在CCC(EI收录)发表论文 *Design of Autonomous Vehicle Trajectory Tracking in Unknown Enviroment***
-**    在《装备工程学报》(北大核心期刊)发表论文 ”基于神经网络的移动机器人轨迹预测控制“***
+- **① 本人在CCC(EI收录)发表论文 *Design of Autonomous Vehicle Trajectory Tracking in Unknown Enviroment***
+![](https://img-blog.csdnimg.cn/52fc30d347e9412d94bd51d7574f29b2.png#pic_center)
 
 
+- **② 本人在《装备工程学报》(北大核心期刊)发表论文 ”基于神经网络的移动机器人轨迹预测控制“***
 ![](https://img-blog.csdnimg.cn/5903973425754295803c49b062209633.png#pic_center)
-
 ![title](https://img-blog.csdnimg.cn/0a91214fc33149d5bcc7897222918506.gif)
-
-
-
 
 
 ### 3.2 校企合作项目：化肥袋包装印刷质检系统
