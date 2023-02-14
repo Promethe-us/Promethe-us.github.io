@@ -19,7 +19,7 @@
 
 ## 1. 学习经历
 
-![title](https://img-blog.csdnimg.cn/f90d5077e0dd47fca5b15d340de2fd17.png)
+
 
 ## 2. 竞赛经历
 
